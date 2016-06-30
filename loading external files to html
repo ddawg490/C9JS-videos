@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>11.external files</title>
+	<script type="text/javascript" src="your source file.js"></script>
+	<script type="text/javascript" src="your source file.js"></script>
+	
+	/*have to write js page in serperate file and load it from script tags*/
+	
+</head>
+<body>
+	<h1>11</h1>
+</body>
+</html>
